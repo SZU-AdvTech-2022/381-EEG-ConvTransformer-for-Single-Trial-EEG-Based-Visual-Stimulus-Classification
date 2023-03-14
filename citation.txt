@@ -1,0 +1,8 @@
+@article{REPO-382,
+    author = "Bagchi, Subhranil and Bathula, Deepti R",
+    journal = "Pattern Recognition",
+    pages = "108757",
+    title = "{EEG-ConvTransformer for Single-Trial EEG-Based Visual Stimulus Classification}",
+    volume = "129",
+    year = "2022"
+}
